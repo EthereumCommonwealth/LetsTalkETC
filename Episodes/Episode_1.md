@@ -3,14 +3,14 @@
 **Carlo Vicari:** 
 everyone welcome to the first episode of
 let's talk ETC podcast I'm here with
-dr. Christian Severino we're going to
+dr. Christian Seberino we're going to
 talk about everything going on in the
 fear in classic community and blockchain
 in general um guess where your two hosts
-I'm my name is Carlo vicari I'm [/u/CarloVetc](https://www.reddit.com/user/CarloVetc)
+I'm my name is Carlo Vicari I'm [/u/CarloVetc](https://www.reddit.com/user/CarloVetc)
 ETC on Reddit and in the ethereum
 classic slack and I'm here with dr.
-Christian Severino he goes by Sabrina
+Christian Seberino he goes by Sabrina
 and slack and on reddit also what's
 going on Christian
 
