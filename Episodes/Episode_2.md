@@ -2,10 +2,10 @@
 **Carlo Vicari:**
 hi everyone and thank you for tuning in
 you're listening to episode 2 of let's
-talk ETS i'm your host Carlovy along
+talk ETC i'm your host Carlovy along
 with my co-host dr. Christian Severino
 also i want to make a special point
-tonight and thank the ETS developers
+tonight and thank the ETC developers
 for working on this project Christian
 and I you know we're in touch with the
 community an awful lot but it's really
@@ -62,7 +62,7 @@ some of the stuff going on in the dev
 report like parody and f qor and stuff
 like that
 
-Elaine:
+**Elaine**:
  yes so previously we had
 updated go athyrium client to delay the
 bomb and now parody are the earth core
