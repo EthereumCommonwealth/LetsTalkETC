@@ -2,7 +2,7 @@
 
 **Carlo Vicari:** 
 everyone welcome to the first episode of
-let's talk ETC podcast I'm here with
+let's talk ETC podcast. I'm here with
 dr. Christian Seberino we're going to
 talk about everything going on in the
 fear in classic community and blockchain
